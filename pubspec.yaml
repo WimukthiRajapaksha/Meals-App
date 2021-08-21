@@ -63,7 +63,8 @@ flutter:
   fonts:
     - family: Releway
       fonts:
-        - asset: assets/fonts/Releway-Regular.ttf
+        - asset: assets/fonts/Raleway-Regular.ttf
+          weight: 300
         - asset: assets/fonts/Releway-Bold.ttf
           weight: 700
         - asset: assets/fonts/Releway-Black.ttf
